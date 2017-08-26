@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_about">Acerca de</string>
+    <string name="title_connect">Conectar</string>
+    <string name="title_report">Reporte</string>
+    <string name="status_facebook_connected">Tu conexión con Facebook está activa. Podés desactivarla clickeando el botón.</string>
+    <string name="content_about">Compartí de manera automática en tu muro todo lo que Cristina publica en su página de Faceboook.\\nPara comenzar, conectá la app con tu cuenta.</string>
+</resources>

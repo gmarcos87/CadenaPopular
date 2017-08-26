@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">CadenaPopular</string>
+    <string name="facebook_app_id" translatable="false">320252068434829</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb320252068434829</string>
+    <string name="title_about">About</string>
+    <string name="title_connect">Connect</string>
+    <string name="title_report">Report</string>
+    <string name="default_notification_channel_id" translatable="false">cadenapopular</string>
+    <string name="default_notification_channel_name" translatable="false">CadenaPopular</string>
+
+    <string name="content_about">Share in your Facebook wall every post by Cristina.\n You just need to connect your account.</string>
+    <string name="status_facebook_connected">You are connected with your Facebook account. You can disconnect using the Facebook button.</string>
+</resources>
