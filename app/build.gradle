@@ -27,7 +27,7 @@ android {
 // force this specific version so gradle doesn't complain about mixed versions (caused by Facebook SDK)
 configurations.all {
     resolutionStrategy {
-        force 'com.android.support:appcompat-v7:26.+'
+        force 'com.android.support:appcompat-v7:26.0.1'
     }
 }
 
